@@ -4,13 +4,16 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
-        ans=""
-        s=len(strs[0])
-        for i in range(s):
-            l=strs[0][i]
-            for w in strs[1:]:
-                ws=len(w)
-                if i>=ws or w[i]!=l:
-                    return ans
-            ans+=l
+        strs.sort()
+        ans = ""
+        i = 0
+        size = len(strs)
+
+        while i < len(strs[0]):
+            if strs[0][i] == strs[size - 1][i]:
+                ans += strs[0][i]
+            else:
+                break
+            i += 1
+
         return ans
