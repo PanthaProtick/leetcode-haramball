@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0134-gas-station) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
