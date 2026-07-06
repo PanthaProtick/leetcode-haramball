@@ -6,7 +6,7 @@ class Solution(object):
         """
         rows=[set() for i in range(9)]
         cols=[set() for i in range(9)]
-        squares = [[set() for x in range(3)] for y in range(3)]
+        squares = [[set() for i in range(3)] for j in range(3)]
 
         for i in range(9):
             for j in range(9):
