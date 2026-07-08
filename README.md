@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0036-valid-sudoku) |
+| [0242-valid-anagram](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0383-ransom-note) |
 ## Math
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0392-is-subsequence) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
