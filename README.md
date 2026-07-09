@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0209-minimum-size-subarray-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0290-word-pattern) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0383-ransom-note) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
