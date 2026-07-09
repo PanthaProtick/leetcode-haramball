@@ -1,24 +1,12 @@
 class Solution(object):
     def containsNearbyDuplicate(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: bool
-        """
-        size=len(nums)
-        hm={}
-        for i in range(size):
-            if nums[i] in hm:
-                hm[nums[i]].append(i)
-            else:
-                hm[nums[i]]=[i]
+        hm = {}
 
-        for num in hm:
-            if len(hm[num])<2:
-                continue
-            else:
-                length=len(hm[num])
-                for i in range(length-1):
-                    if abs(hm[num][i]-hm[num][i+1])<=k:
-                        return True
+        for i in range(len(nums)):
+            if nums[i] in hm:
+                if i - hm[nums[i]] <= k:
+                    return True
+
+            hm[nums[i]] = i
+
         return False
