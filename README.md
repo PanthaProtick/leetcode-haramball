@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0289-game-of-life) |
 ## Greedy
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0383-ransom-note) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
