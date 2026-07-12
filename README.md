@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0289-game-of-life) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sliding Window
 |  |
 | ------- |
