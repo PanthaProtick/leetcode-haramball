@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0242-valid-anagram) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
