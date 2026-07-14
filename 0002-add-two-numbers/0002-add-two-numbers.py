@@ -8,23 +8,25 @@ class Solution:
         node1=l1
         node2=l2
         carry=0
-        total=[]
+        total=None
+        prev=None
         while l1 or l2:
             a=l1.val if l1 else 0
             b=l2.val if l2 else 0
             res=a+b+carry
-            total.append(res%10)
+            node=ListNode(res%10,None)
+            if not total:
+                prev=node
+                total=node
+            else:
+                prev.next=node
+                prev=node
             carry=int(res/10)
             if l1:
                 l1=l1.next
             if l2:
                 l2=l2.next
         if carry!=0:
-            total.append(carry)
-        l3=ListNode(total[0],None)
-        prev=l3
-        for i in range(1,len(total)):
-            node=ListNode(total[i],None)
+            node=ListNode(carry,None)
             prev.next=node
-            prev=node
-        return l3
+        return total
