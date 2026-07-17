@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0290-word-pattern) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0155-min-stack) |
 ## Linked List
 |  |
@@ -161,9 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0021-merge-two-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
