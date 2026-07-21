@@ -7,7 +7,7 @@ class Node(object):
         self.right = right
         self.next = next
 """
-
+from collections import deque
 class Solution(object):
     def connect(self, root):
         """
@@ -16,12 +16,12 @@ class Solution(object):
         """
         if not root:
             return None
-        queue=[root]
+        queue=deque([root])
         traversed=[]
         levels={}
         levels[(root)]=0
         while queue:
-            node=queue.pop(0)
+            node=queue.popleft()
             level=levels[(node)]
             if node.left:
                 queue.append(node.left)
