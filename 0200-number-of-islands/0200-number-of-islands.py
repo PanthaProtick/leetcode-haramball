@@ -24,8 +24,8 @@ class Solution(object):
                     new_a=a+v
                     new_b=b+h
                     if new_a in range(m) and new_b in range(n) and grid[new_a][new_b]=='1' and (new_a,new_b) not in visited:
-                        queue.append((new_a,new_b))
                         visited.add((new_a,new_b))
+                        queue.append((new_a,new_b))
         
         for i in range(m):
             for j in range(n):
