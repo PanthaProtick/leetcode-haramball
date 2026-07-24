@@ -23,7 +23,7 @@ class Solution(object):
                 for v,h in directions:
                     new_a=a+v
                     new_b=b+h
-                    if new_a in range(m) and new_b in range(n) and grid[new_a][new_b]=='1' and (new_a,new_b) not in visited:
+                    if new_a>=0 and new_a<m and new_b>=0 and new_b<n and grid[new_a][new_b]=='1' and (new_a,new_b) not in visited:
                         visited.add((new_a,new_b))
                         queue.append((new_a,new_b))
         
