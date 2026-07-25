@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0289-game-of-life) |
+| [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Greedy
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
 ## Trie
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
 ## Stack
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
 ## Binary Tree
 |  |
 | ------- |
@@ -275,4 +280,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
