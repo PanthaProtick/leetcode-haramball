@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0433-minimum-genetic-mutation) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0433-minimum-genetic-mutation) |
 ## Trie
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0433-minimum-genetic-mutation) |
 | [0909-snakes-and-ladders](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0909-snakes-and-ladders) |
 ## Binary Tree
 |  |
