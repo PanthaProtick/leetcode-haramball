@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0289-game-of-life) |
 | [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0909-snakes-and-ladders](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0909-snakes-and-ladders) |
 ## Greedy
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0289-game-of-life) |
+| [0909-snakes-and-ladders](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0909-snakes-and-ladders) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
+| [0909-snakes-and-ladders](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0909-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |
