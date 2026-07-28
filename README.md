@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0290-word-pattern) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0383-ransom-note) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0208-implement-trie-prefix-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0208-implement-trie-prefix-tree) |
 ## Linked List
 |  |
 | ------- |
