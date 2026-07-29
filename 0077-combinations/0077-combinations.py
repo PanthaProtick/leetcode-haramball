@@ -5,16 +5,17 @@ class Solution(object):
         :type k: int
         :rtype: List[List[int]]
         """
-        def dfs(j):
-            if j<=0:
-                return [[]]
+        ans=[]
 
-            arr=dfs(j-1)
-            ans=[]
-            for entry in arr:
-                start=entry[-1]+1 if entry else 1
+        def backtrack(start, comb):
+            if len(comb)==k:
+                ans.append(list(comb))
+                return
 
-                for i in range(start, n+1):
-                    ans.append(entry+[i])
-            return ans
-        return dfs(k)
+            for i in range(start, n+1):
+                comb.append(i)
+                backtrack(i+1,comb)
+                comb.pop()
+
+        backtrack(1,[])
+        return ans
