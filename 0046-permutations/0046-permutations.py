@@ -7,8 +7,10 @@ class Solution(object):
         ans=[]
 
         def backtrack(temp,path):
-            if len(temp)==0:
+            if len(temp)==1:
+                path.append(temp[0])
                 ans.append(list(path))
+                path.pop()
                 return
 
             for i in range(len(temp)):
