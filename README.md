@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0056-merge-intervals) |
@@ -316,5 +317,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
