@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0058-length-of-last-word) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
