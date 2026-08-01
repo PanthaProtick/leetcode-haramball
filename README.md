@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0289-game-of-life) |
 | [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0909-snakes-and-ladders](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0909-snakes-and-ladders) |
 ## Greedy
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0909-snakes-and-ladders) |
 ## Simulation
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0427-construct-quad-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0148-sort-list) |
+| [0427-construct-quad-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0427-construct-quad-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
