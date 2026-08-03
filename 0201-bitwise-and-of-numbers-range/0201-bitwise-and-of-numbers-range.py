@@ -13,11 +13,7 @@ class Solution(object):
                 break
             temp<<=1
 
-        ans=0
-        for i in range(32):
-            ans|=1
-            ans<<=1
-        ans|=1
+        ans=-1
 
         diff=right-left
         count=0
