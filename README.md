@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
