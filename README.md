@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0172-factorial-trailing-zeroes) |
 ## String
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0222-count-complete-tree-nodes) |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0148-sort-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
