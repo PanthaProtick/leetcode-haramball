@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0172-factorial-trailing-zeroes) |
 ## String
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
