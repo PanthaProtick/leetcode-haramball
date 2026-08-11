@@ -6,6 +6,7 @@ class Solution(object):
         :rtype: bool
         """
         size=len(s)
+        wordDict=set(wordDict)
         arr=[False for i in range(size+1)]
         arr[0]=True
         for i in range(1,size+1):
