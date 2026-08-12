@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0433-minimum-genetic-mutation) |
 | [0909-snakes-and-ladders](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0909-snakes-and-ladders) |
@@ -380,4 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
