@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0427-construct-quad-tree) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0392-is-subsequence) |
 ## Binary Search
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0300-longest-increasing-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
