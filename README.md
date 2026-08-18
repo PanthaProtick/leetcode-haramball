@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0139-word-break) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0289-game-of-life) |
