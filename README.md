@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0433-minimum-genetic-mutation) |
+| [1143-longest-common-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0392-is-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/PanthaProtick/leetcode-haramball/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
