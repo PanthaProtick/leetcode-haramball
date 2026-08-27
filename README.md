@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0172-factorial-trailing-zeroes) |
 ## String
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0190-reverse-bits) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/PanthaProtick/leetcode-haramball/tree/master/0089-gray-code) |
 ## Merge Sort
 |  |
 | ------- |
